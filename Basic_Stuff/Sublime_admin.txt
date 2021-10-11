@@ -1,0 +1,9 @@
+Admin_Credential 
+
+http://10.0.23.229:1214/OptiProERPAdmin
+User name :- admin1
+Password :- opti@123
+
+*******************************************************************************
+
+
