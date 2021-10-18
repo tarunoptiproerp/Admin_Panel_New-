@@ -85,7 +85,7 @@ public class Base_Class {
 	public static void ExtentReports()
 	{
 		extent = new ExtentReports();
-		//spark = new ExtentSparkReporter("Extenetreport.html");
+		spark = new ExtentSparkReporter("Extenetreport.html");
 		extent.attachReporter(spark);
 	}
 	
